@@ -1,6 +1,7 @@
 // seguidor
 // 
  
+// aplazarjs
  $(function(){
  	$('a').click(function(){
 		var href =$(this).attr("href");

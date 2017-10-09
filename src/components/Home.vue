@@ -113,7 +113,7 @@
 						<div class="div-project-1 col-xs-12 col-sm-12 col-md-4 col-lg-4">
 							<div class="div-head">
 								<div class="div-circle-project">
-									<img src="src/assets/images/bancolombia.jpg">
+									<img src="src/assets/images/terminado3.jpg">
 								</div>
 								<div class="div-info-project">
 									<h3>Cajeros automaticos</h3>
@@ -127,7 +127,7 @@
 						<div class="div-project-1 col-xs-12 col-sm-12 col-md-4 col-lg-4">
 							<div class="div-head">
 								<div class="div-circle-project">
-									<img src="src/assets/images/bancolombia.jpg">
+									<img src="src/assets/images/terminado3.jpg">
 								</div>
 								<div class="div-info-project">
 									<h3>Cajeros automaticos</h3>
@@ -141,7 +141,7 @@
 						<div class="div-project-2 col-xs-12 col-sm-12 col-md-4 col-lg-4">
 							<div class="div-head">
 								<div class="div-circle-project">
-									<img src="src/assets/images/otro.jpg">
+									<img src="src/assets/images/terminado3.jpg">
 								</div>
 								<div class="div-info-project">
 									<h3>Banco de la republica</h3>
@@ -157,7 +157,7 @@
 						<div class="div-project-1 col-xs-12 col-sm-12 col-md-4 col-lg-4">
 							<div class="div-head">
 								<div class="div-circle-project">
-									<img src="src/assets/images/terminado.jpg">
+									<img src="src/assets/images/terminado3.jpg">
 								</div>
 								<div class="div-info-project">
 									<h3>Torre oriente</h3>

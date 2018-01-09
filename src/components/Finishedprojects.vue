@@ -1,7 +1,10 @@
 <template>
 	<div>
 		<div class="container-fluid div-header-galeria col-xs-12 col-sm-12 col-md-12 col-lg-12" id="gallery">
-			<h1>{{texto}}</h1>
+			<div class="div-text-gallery">
+                <h1 class="h1-gallery-1">{{text1}}</h1>
+            	<h1 class="h1-gallery-2">{{text2}}</h1>
+        	</div>
 		</div>
 		<div class="div-bodygallery  col-lg-12">
 			<div class="div-galery-1">
@@ -53,7 +56,8 @@ export default {
 	name: 'Finishedprojects',
 	data () {
 		return {
-			texto :'Proyectos terminados'
+			text1 :'Nuestros',
+			text2 :'proyectos terminados'
 		}
 	}
 }

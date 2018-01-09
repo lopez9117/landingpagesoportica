@@ -31,27 +31,8 @@
 			</form>
 		</div>
 		<div class="div-row2contanct">
-			<div>
-				<div class="col-xs-12 col-sm-12 col-md-5 col-lg-6 div-city1">
-					<h1><i class="fa fa-map-marker" aria-hidden="true"></i>Medellín</h1>
-					<p><i class="fa fa-address-book fa-2x" aria-hidden="true"></i>Carrera 49 No. 61 sur 68.Centro Ejecutivo Sabana, oficina 201.PBX: (574) 514 9150 Fax: (574) 514 9150 ext. 150</p>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-5 col-lg-6 div-city1">
-					<h1><i class="fa fa-map-marker" aria-hidden="true"></i>Bogotá</h1>
-					<p><i class="fa fa-address-book fa-2x" aria-hidden="true"></i>	Calle 29 No. 6-94.Edificio calle 29, oficinas 301 y 302.Teléfonos: (571) 232 4510, (571) 232 5314.Fax: (571) 245 5391</p>
-				</div>
-			</div>
-			<div>
-				<div class="col-xs-12 col-sm-12 col-md-5 col-lg-6 div-city1">
-					<h1><i class="fa fa-map-marker" aria-hidden="true"></i>Barranquilla</h1>
-					<p><i class="fa fa-address-book fa-2x" aria-hidden="true"></i>Calle 63 No. 45 - 64, Boston.
-					Teléfono: (575) 300 7332</p>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-5 col-lg-6 div-city1">
-					<h1><i class="fa fa-map-marker" aria-hidden="true"></i>Cali</h1>
-					<p><i class="fa fa-address-book fa-2x" aria-hidden="true"></i>Avenida 8 Norte número 10 – 98.
-					Teléfono: (572) 342 9469</p>
-				</div>
+			<div class="div-trasparent-contact">
+				
 			</div>
 		</div>
 	</div>

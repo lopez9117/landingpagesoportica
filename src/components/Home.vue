@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div id="home">
 		<!-- seguidor -->
 		<div class="seguidor" id="follower">
 			<a href="#content1"><div class="bolita1"></div></a>
